@@ -61,6 +61,8 @@ There were **37 missing values in the Review Rating column**, which were handled
 
 ## 🔄 Project Workflow
 
+**CSV > Python > MySQL > PowerBI**
+
 ### 1. Data Cleaning & Preparation – Python
 
 I started by loading and exploring the raw dataset using Pandas.
